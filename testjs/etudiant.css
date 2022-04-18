@@ -1,0 +1,38 @@
+.left {
+    margin-left: 700px;
+    margin-top: -300px;
+}
+.button{
+    margin-top: 900px;
+    margin-left: 700px;
+}
+#btn{
+    margin-top: 10px;
+    margin-left: 700px;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("img/25099.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+#plus{
+    size: 10px;
+    height: 25px;
+    width: 25px;
+}
+#supp{
+    height: 25px;
+    width: 25px; 
+}
